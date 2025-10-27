@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BB779D-799B-4F6D-967F-AD85BC63A8B5}|StrukturePodataka3\\StrukturePodataka3.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka3\\StrukturePodataka3\\Zad3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75BB779D-799B-4F6D-967F-AD85BC63A8B5}|StrukturePodataka3\\StrukturePodataka3.vcxproj|solutionrelative:StrukturePodataka3\\Zad3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad3.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka3\\StrukturePodataka3\\Zad3.c",
+              "RelativeDocumentMoniker": "StrukturePodataka3\\Zad3.c",
+              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka3\\StrukturePodataka3\\Zad3.c",
+              "RelativeToolTip": "StrukturePodataka3\\Zad3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-24T17:36:53.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

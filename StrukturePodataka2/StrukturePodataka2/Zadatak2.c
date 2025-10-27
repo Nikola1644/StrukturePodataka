@@ -3,7 +3,6 @@
 #include<stdlib.h>
 #include<string.h>
 #define MAX 40
-#define INITIALIZATION_ERROR -1
 
 // Definicija strukture i pokazivaca na strukturu
 typedef struct person* position;

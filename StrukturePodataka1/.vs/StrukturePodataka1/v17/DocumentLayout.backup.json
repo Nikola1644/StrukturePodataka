@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka1\\",
+  "WorkspaceRootPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EEABDBF-C40E-4CAB-85DA-C28A747F1CDC}|StrukturePodataka1\\StrukturePodataka1.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EEABDBF-C40E-4CAB-85DA-C28A747F1CDC}|StrukturePodataka1\\StrukturePodataka1.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EEABDBF-C40E-4CAB-85DA-C28A747F1CDC}|StrukturePodataka1\\StrukturePodataka1.vcxproj|solutionrelative:StrukturePodataka1\\Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zadatak1.c",
-              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c",
               "RelativeDocumentMoniker": "StrukturePodataka1\\Zadatak1.c",
-              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c",
+              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka1\\StrukturePodataka1\\Zadatak1.c",
               "RelativeToolTip": "StrukturePodataka1\\Zadatak1.c",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-11T17:21:18.854Z",
               "EditorCaption": ""
