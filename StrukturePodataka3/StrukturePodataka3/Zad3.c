@@ -38,8 +38,8 @@ int main() {
 
     // UI za odabir funkcije za izvrsavanje
     printf("Izaberi funckiju:\n");
-    printf("1->Dodaj na pocetak\n2->Dodaj na kraj\n3->Ispisi listu\n4->Obrisi po prezimenu\n5->Ubaci iza elementa\n6->Ubaci ispred elementa\n7->Upisi u datoteku\n8->Citaj iz datoteke\n9->Sortiraj listu\n10->Izlaz iz programa\n\n");
-    
+    printf("1->Dodaj na pocetak\n2->Dodaj na kraj\n3->Ispisi listu\n4->Obrisi po prezimenu\n5->Ubaci iza elementa\n");
+    printf("6->Ubaci ispred elementa\n7->Upisi u datoteku\n8->Citaj iz datoteke\n9->Sortiraj listu\n10->Izlaz iz programa\n\n");
     while (radi) {
         scanf("%d", &n);
 
