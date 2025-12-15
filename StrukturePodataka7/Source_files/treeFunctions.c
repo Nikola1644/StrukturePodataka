@@ -91,21 +91,6 @@ int cdDirectory(Stack StackP, char name[]) {
 	return 0;
 }
 
-int renameDirectory(Position curr, char oldName[], char newName[]) {
-	Position temp = curr->firstChild;
-
-	while (temp && strcmp(temp->name, oldName) != 0) {
-		temp = temp->nextChild;
-	}
-	if (!temp) {
-		printf("Direktorij nije pronaden!\n");
-		return 0;
-	}
-
-	strcpy(temp->name, newName);
-	return 0;
-}
-
 int deleteDirectory(Position curr, char name[]) {
 	Position temp = curr->firstChild;
 	Position prev = NULL;

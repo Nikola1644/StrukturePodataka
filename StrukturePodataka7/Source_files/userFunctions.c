@@ -9,7 +9,7 @@
 //Funkcija koja implementira korisnicki izbornik i upravlja radom programa 
 int chooseOperations(Position dirP, Stack StackP) {
     int n;
-    char name[40], oldName[40], newName[40];   // spremnici za imena direktorija
+    char name[40];  // spremnik za imena direktorija
 
     while (1) {
         printf("\nIzaberi operaciju:\n");
@@ -18,8 +18,7 @@ int chooseOperations(Position dirP, Stack StackP) {
         printf("3 - cd..\n");
         printf("4 - dir\n");
         printf("5 - rd /s dir\n");
-        printf("6 - ren old new\n");
-        printf("7 - exit\n\n");
+        printf("6 - exit\n\n");
         printf("Izbor: ");
 
         scanf("%d", &n);   // ucitavanje korisnikovog izbora
@@ -57,14 +56,7 @@ int chooseOperations(Position dirP, Stack StackP) {
             deleteDirectory(StackP->next->dir, name);
             break;
 
-        case 6:   // ren old new - preimenovanje poddirektorija
-            // mijenja naziv postojeceg poddirektorija u trenutnom direktoriju
-            printf("Staro ime i novo ime: ");
-            scanf("%s %s", oldName, newName);
-            renameDirectory(StackP->next->dir, oldName, newName);
-            break;
-
-        case 7:   // exit - izlaz iz programa
+        case 6:   // exit - izlaz iz programa
             // prekida izvođenje programa i vraca kontrolu u main
             printf("Izlazak iz programa...\n");
             return EXIT_SUCCESS;

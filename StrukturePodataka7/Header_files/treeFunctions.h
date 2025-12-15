@@ -16,7 +16,6 @@ int makeDirectory(Stack StackP, char name[]); // kreira direktori u trenutnom di
 int printChildDirectories(Stack StackP); // ispisuje sadrzaj direktorija 
 int cdDirectory(Stack StackP, char name[]); // otvara direktorij koji je poddirektori trenutnI
 int deleteDirectory(Position curr, char name[]);
-int renameDirectory(Position curr, char oldName[], char newName[]);
 int freeTree(Position dirP);
 
 #endif
