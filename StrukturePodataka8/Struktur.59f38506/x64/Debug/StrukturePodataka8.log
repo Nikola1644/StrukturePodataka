@@ -1,0 +1,7 @@
+﻿  main.c
+  treeFunctions.c
+C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka8\Source_files\treeFunctions.c(121,13): warning C4033: 'printLevel' must return a value
+  userFunctions.c
+  Generating Code...
+C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka8\Source_files\treeFunctions.c(130,1): warning C4715: 'printLevel': not all control paths return a value
+  StrukturePodataka8.vcxproj -> C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka8\x64\Debug\StrukturePodataka8.exe

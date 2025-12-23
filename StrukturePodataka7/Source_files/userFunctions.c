@@ -66,4 +66,5 @@ int chooseOperations(Position dirP, Stack StackP) {
             printf("Nevaljan odabir!\n");
         }
     }
+    return 0;
 }
