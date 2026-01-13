@@ -1,11 +1,6 @@
-﻿  fileFunctions.c
+﻿  main.c
+  fileFunctions.c
 C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\fileFunctions.c(5,3): warning C4033: 'inorderPrintToFile' must return a value
-  main.c
-  treeFunctions.c
-C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\treeFunctions.c(45,3): warning C4033: 'printPreorder' must return a value
-C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\treeFunctions.c(58,3): warning C4033: 'freeTree' must return a value
   Generating Code...
-C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\treeFunctions.c(64,1): warning C4715: 'freeTree': not all control paths return a value
-C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\treeFunctions.c(54,1): warning C4715: 'printPreorder': not all control paths return a value
 C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\Source_files\fileFunctions.c(12,1): warning C4715: 'inorderPrintToFile': not all control paths return a value
   StrukturePodataka9.vcxproj -> C:\Users\nikol\OneDrive\Desktop\Nikola Kustura\StrukturePodataka\StrukturePodataka9\x64\Debug\StrukturePodataka9.exe

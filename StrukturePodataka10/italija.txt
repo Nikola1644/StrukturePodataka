@@ -1,0 +1,4 @@
+Roma, 2873000
+Milano, 1366000
+Napoli, 962589
+Torino, 870456
