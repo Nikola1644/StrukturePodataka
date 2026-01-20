@@ -27,6 +27,9 @@
     <ClCompile Include="Source_files\main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source_files\country_hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header_files\country.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Header_files\city.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_files\country_hash.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

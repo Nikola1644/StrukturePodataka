@@ -7,28 +7,36 @@
       "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\city.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\city.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country_hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\country_hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country_hash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\country_hash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\country.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\io.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\io.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\country.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\city.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\city.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Header_files\\country.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\city.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833216BA-F599-4252-A3E3-7CB3FBAE37AB}|StrukturePodataka10.vcxproj|solutionrelative:Source_files\\city.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "io.c",
               "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\io.c",
               "RelativeDocumentMoniker": "Source_files\\io.c",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\io.c",
               "RelativeToolTip": "Source_files\\io.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T20:39:59.12Z",
               "IsPinned": true
@@ -58,67 +66,76 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\main.c",
-              "RelativeDocumentMoniker": "Source_files\\main.c",
-              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\main.c",
-              "RelativeToolTip": "Source_files\\main.c",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwIsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "country_hash.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country_hash.c",
+              "RelativeDocumentMoniker": "Source_files\\country_hash.c",
+              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country_hash.c",
+              "RelativeToolTip": "Source_files\\country_hash.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-12T22:59:59.26Z",
+              "WhenOpened": "2026-01-19T16:33:44.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "country_hash.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country_hash.h",
+              "RelativeDocumentMoniker": "Header_files\\country_hash.h",
+              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country_hash.h",
+              "RelativeToolTip": "Header_files\\country_hash.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-19T16:09:53.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "country.c",
               "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country.c",
               "RelativeDocumentMoniker": "Source_files\\country.c",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\country.c",
               "RelativeToolTip": "Source_files\\country.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T17:59:06.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "city.c",
               "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\city.c",
               "RelativeDocumentMoniker": "Source_files\\city.c",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\city.c",
               "RelativeToolTip": "Source_files\\city.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T16:55:38.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "city.h",
               "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\city.h",
               "RelativeDocumentMoniker": "Header_files\\city.h",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\city.h",
               "RelativeToolTip": "Header_files\\city.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-12T17:04:05.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "io.h",
               "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\io.h",
               "RelativeDocumentMoniker": "Header_files\\io.h",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\io.h",
               "RelativeToolTip": "Header_files\\io.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-12T16:07:33.409Z"
             },
@@ -130,9 +147,26 @@
               "RelativeDocumentMoniker": "Header_files\\country.h",
               "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Header_files\\country.h",
               "RelativeToolTip": "Header_files\\country.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-12T15:30:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\main.c",
+              "RelativeDocumentMoniker": "Source_files\\main.c",
+              "ToolTip": "C:\\Users\\nikol\\OneDrive\\Desktop\\Nikola Kustura\\StrukturePodataka\\StrukturePodataka10\\Source_files\\main.c",
+              "RelativeToolTip": "Source_files\\main.c",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAYwMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-12T22:59:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

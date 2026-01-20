@@ -1,6 +1,6 @@
 #ifndef IO_H
 #define IO_H
-
+#define MAX_LINE 256
 #include "country.h"
 #include "city.h"
 

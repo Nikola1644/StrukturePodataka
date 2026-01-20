@@ -129,12 +129,14 @@
   <ItemGroup>
     <ClCompile Include="Source_files\city.c" />
     <ClCompile Include="Source_files\country.c" />
+    <ClCompile Include="Source_files\country_hash.c" />
     <ClCompile Include="Source_files\io.c" />
     <ClCompile Include="Source_files\main.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header_files\city.h" />
     <ClInclude Include="Header_files\country.h" />
+    <ClInclude Include="Header_files\country_hash.h" />
     <ClInclude Include="Header_files\io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
